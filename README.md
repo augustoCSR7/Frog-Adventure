@@ -1,2 +1,2 @@
 # Frog Adventure
-Elabora para o processo seletivo do LUDUS
+Elaborado para o processo seletivo do LUDUS
